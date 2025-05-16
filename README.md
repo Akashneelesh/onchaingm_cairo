@@ -4,6 +4,7 @@
 <p align="center">
   <strong>✨ 🐺 OnChainGM is a smart contract that enables users to send a "GM" (Good Morning) transaction once every 24 hours on-chain. Each GM transaction requires a small ETH fee and is recorded on the blockchain. The project supports a referral-based reward system and tracks user activity on multiple networks.</strong>
 </p>
+
 ## 🛠️ Build
 
 To build the project, run:
